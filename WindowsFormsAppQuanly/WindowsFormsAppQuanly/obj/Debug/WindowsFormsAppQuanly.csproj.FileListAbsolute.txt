@@ -1,0 +1,130 @@
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Database1.mdf
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Database1_log.ldf
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.exe.config
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.exe
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.pdb
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.AssemblyReference.cache
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Properties.Resources.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.GenerateResource.cache
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.CoreCompileInputs.cache
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.exe
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.pdb
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DangNhap.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DangKy.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.QuenMatKhau.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Home.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.HoaDon.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.KhachHang.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.NhanVien.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Guna.UI2.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.CopyComplete
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.NhaCC.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Hang.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Database1.mdf
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Database1_log.ldf
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.exe.config
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.exe
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.pdb
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Guna.UI2.dll
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.AssemblyReference.cache
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DoanhThu.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Form1.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Hang.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.HoaDon.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Home2.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.KhachHang.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DangNhap.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DangKy.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Home.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.NhaCC.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.NhanVien.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Properties.Resources.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.QuenMatKhau.resources
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.GenerateResource.cache
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.CoreCompileInputs.cache
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.CopyComplete
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.exe
+D:\gittt\quanlyduan7\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.pdb
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Database1.mdf
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Database1_log.ldf
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.exe.config
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.exe
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\WindowsFormsAppQuanly.pdb
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Guna.UI2.dll
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.AssemblyReference.cache
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DoanhThu.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Form1.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Hang.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.HoaDon.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Home2.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.KhachHang.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DangNhap.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.DangKy.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Home.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.NhaCC.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.NhanVien.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.Properties.Resources.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.QuenMatKhau.resources
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.GenerateResource.cache
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.CoreCompileInputs.cache
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.csproj.CopyComplete
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.exe
+D:\gittt\quanlyduan8\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.pdb
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.NhapHang.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.ChiTietHD.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.ChiTietNH.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.ChiTietTH.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.TimKiem.resources
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\EnvDTE.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\stdole.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THANH AN PC\source\repos\WindowsFormsAppQuanly\WindowsFormsAppQuanly\obj\Debug\WindowsFormsAppQuanly.BaoCao.resources
